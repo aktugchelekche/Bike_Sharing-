@@ -33,7 +33,7 @@ First Part of Story in Chart-1 presents following information:
 
 <p align= "center">Chart-2</p></p>
 
-In Chart-2 number of trips duration show that the majority of trips taken on CitiBike bikes are under an hour in length. In fact, most trips are under a half-hour and  with adropoff in number of rides over an hour in length.
+In Chart-2 number of trips duration show that the majority of trips taken on CitiBike bikes are under an hour in length. In fact, most trips are under a half-hour and  with a drop in number of rides over an hour in length.
 
 #### Check Out Time by Gender
 <p align = "center">
@@ -50,7 +50,7 @@ Chart -3  shows number of checkout bikes versus trip duration. Trip duration is 
 <p align= "center">Chart-4</p>
 </p>
 
-In Chart-4, number of trips per hour dueing weekday. The color indicates the number of trips. As color get darker, number of trips increase, while lighter color indicatesless trips. Form the graph we can see that the busiest times are in the morning hours on weekdays from 6am till 9am and in the evening hours on weekdays between 5 pm and 7 pm.
+In Chart-4, number of trips per hour during weekday. The color indicates the number of trips. As color get darker, number of trips increase, while lighter color indicates less trips. Form the graph we can see that the busiest times are in the morning hours on weekdays from 6am till 9am and in the evening hours on weekdays between 5 pm and 7 pm.
 
 #### Trips by Gender (Weekday per Hour)
 <p align = "center">
@@ -58,7 +58,7 @@ In Chart-4, number of trips per hour dueing weekday. The color indicates the num
 <p align= "center">Chart-5</p>
 </p>
 
-Chart-5 was generated after dividing Chart-4 by gender. It appears that there is a uniform distrubution regarding busiest hours which is 5-7pm and 6-9am for all genders. During weekends the busiest hours shift to 10 am and 6 pm. As privously stated males have significantly higher numbers than other genders. 
+Chart-5 was generated after dividing Chart-4 by gender. It appears that there is a uniform distribution regarding busiest hours which is 5-7pm and 6-9am for all genders. During weekends the busiest hours shift to 10 am and 6 pm. As previously stated males have significantly higher numbers than other genders. 
 
 #### User Trips by Gender by Weekday
 <p align = "center">
@@ -66,7 +66,7 @@ Chart-5 was generated after dividing Chart-4 by gender. It appears that there is
 <p align= "center">Chart-6</p>
 </p>
 
-In Chart-6, male has the highest number of the trips on Fridays and Thursdays as well as on Monday and Tuesdays. Altough  significant lower number of trips than male, female have similar trips days. 
+In Chart-6, male has the highest number of the trips on Fridays and Thursdays as well as on Monday and Tuesdays. Although  significant lower number of trips than male, female have similar trips days. 
 
 
 #### Top Starting Locations & Top Ending Locations
@@ -77,25 +77,25 @@ In Chart-6, male has the highest number of the trips on Fridays and Thursdays as
 <p align= "center">Chart-7</p>
 </p>
 
-Accoriding heatmap in Chart 7 , downtown area appears to be most popular area to start and end a journey. We can not denie that surrouder of the downtown seems to be attrative for bike rides as well. 
+According heatmap in Chart 7 , downtown area appears to be most popular area to start and end a journey. We can not denied that surrounded of the downtown seems to be attractive for bike rides as well. 
 
 # Summary 
-There are quite a few summary can be done with above vizulazations however 3 of them are more important than the others as to sustainebility and profibility most impretive for a business. 
+There are quite a few summary can be done with above visualizations however 3 of them are more important than the others as to sustainability and profitability most imperative for a business. 
 
 #### 1. Female Subscribers/Customers :
-It is obviuous that there is a need for a new business plan to attract females to utilize bikes more than it is . There are couple of ways to reach them out as one would be have survey to find out what needs to be done to capture more female customers. In popular European cities, the use of electrical bikes among females are increasing significantly, also making colorfull desings and creating females friendly events ,social activities would help the business reach the target group. 
+It is obvious that there is a need for a new business plan to attract females to utilize bikes more than it is . There are couple of ways to reach them out as one would be have survey to find out what needs to be done to capture more female customers. In popular European cities, the use of electrical bikes among females are increasing significantly, also making colorful designs and creating females friendly events ,social activities would help the business reach the target group. 
 
 #### 2. Male Subscribers/Customers :
 
-Wihout any doubt, males are the backbone of this model. Sustain then increase number of male users most fundemantal for the revenue. We need to make sure that bikes are clean, well maintined and ready for thier trips during morning and evening times which are the mosty male users trip times. 
+Without any doubt, males are the backbone of this model. Sustain then increase number of male users most fundamental for the revenue. We need to make sure that bikes are clean, well maintained and ready for their trips during morning and evening times which are the mostly male users trip times. 
 
 #### 3. Bike maintenance
-From trip times we can interpret that some bikes are used much more than others. We need to make sure to keep track on those been user more than others to rotate to less busy stations so that maintainence can be perform rouitnely. This will give a good idea for future purchase which type of bikes are prefeered from out users. 
+From trip times we can interpret that some bikes are used much more than others. We need to make sure to keep track on those been user more than others to rotate to less busy stations so that maintenance can be perform routinely. This will give a good idea for future purchase which type of bikes are preferred from out users. 
 
-### Suggestiond :
+### Suggestion :
 
 1.  Total trip, by birth year. This would help us to find the target group and reach them via social media, mail , phone to inform them  about the model we are implementing in the city. 
-2.  The vizulations we have is for August. Comparing different months to determine trends over the year. 
+2.  The visualizations we have is for August. Comparing different months to determine trends over the year. 
 3.  Trip duration on different weather condition. 
 
 
