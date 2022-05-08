@@ -66,7 +66,30 @@ Chart-5 was generated after dividing Chart-4 by gender. It appears that there is
 <p align= "center">Chart-6</p>
 </p>
 
-In Chart-6, we can 
+In Chart-6, male has the highest number of the trips on Fridays and Thursdays as well as on Monday and Tuesdays. Altough  significant lower number of trips than male, female have similar trips days. 
+
+
+#### Top Starting Locations & Top Ending Locations
+
+<p align = "center">
+ <img width="70%" alt="Screen Shot 2022-05-07 at 9 24 07 PM" src="https://user-images.githubusercontent.com/98676400/167279839-c82afbee-34b9-4261-bc04-a1fc471b114e.png">
+
+<p align= "center">Chart-7</p>
+</p>
+
+Accoriding heatmap in Chart 7 , downtown area appears to be most popular area to start and end a journey. We can not denie that surrouder of the downtown seems to be attrative for bike rides as well. 
+
+# Summary 
+There are quite a few summary can be done with above vizulazations however 3 of them are more important than the others as to sustainebility and profibility most impretive for a business. 
+
+#### 1. Female Subscribers/Customers :
+It is obviuous that there is a need for a new business plan to attract females to utilize bikes more than it is . There are couple of ways to reach them out as one would be have survey to find out what needs to be done to capture more female customers. In popular European cities, the use of electrical bikes among females are increasing significantly, also making colorfull desings and creating females friendly events ,social activities would help the business reach the target group. 
+
+#### 2. Male Subscribers/Customers :
+
+Wihout any doubt, males are the backbone of this model. Sustain then increase number of male users most fundemantal for the revenue. 
+
+
 
 
 ### Resources 
