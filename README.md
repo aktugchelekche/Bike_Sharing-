@@ -87,9 +87,16 @@ It is obviuous that there is a need for a new business plan to attract females t
 
 #### 2. Male Subscribers/Customers :
 
-Wihout any doubt, males are the backbone of this model. Sustain then increase number of male users most fundemantal for the revenue. 
+Wihout any doubt, males are the backbone of this model. Sustain then increase number of male users most fundemantal for the revenue. We need to make sure that bikes are clean, well maintined and ready for thier trips during morning and evening times which are the mosty male users trip times. 
 
+#### 3. Bike maintenance
+From trip times we can interpret that some bikes are used much more than others. We need to make sure to keep track on those been user more than others to rotate to less busy stations so that maintainence can be perform rouitnely. This will give a good idea for future purchase which type of bikes are prefeered from out users. 
 
+### Suggestiond :
+
+1.  Total trip, by birth year. This would help us to find the target group and reach them via social media, mail , phone to inform them  about the model we are implementing in the city. 
+2.  The vizulations we have is for August. Comparing different months to determine trends over the year. 
+3.  
 
 
 ### Resources 
