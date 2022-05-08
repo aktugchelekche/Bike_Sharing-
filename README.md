@@ -96,7 +96,7 @@ From trip times we can interpret that some bikes are used much more than others.
 
 1.  Total trip, by birth year. This would help us to find the target group and reach them via social media, mail , phone to inform them  about the model we are implementing in the city. 
 2.  The vizulations we have is for August. Comparing different months to determine trends over the year. 
-3.  
+3.  Trip duration on different weather condition. 
 
 
 ### Resources 
