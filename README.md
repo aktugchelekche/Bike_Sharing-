@@ -66,7 +66,7 @@ Chart-5 was generated after dividing Chart-4 by gender. It appears that there is
 <p align= "center">Chart-6</p>
 </p>
 
-In Chart-6, male has the highest number of the trips on Fridays and Thursdays as well as on Monday and Tuesdays. Although  significant lower number of trips than male, female have similar trips days. 
+In Chart-6, male has the highest number of the trips on Fridays and Thursdays as well as on Monday and Tuesdays. Although  significantly lower number of trips than male, female have similar trips days. 
 
 
 #### Top Starting Locations & Top Ending Locations
