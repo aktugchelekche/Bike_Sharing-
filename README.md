@@ -7,6 +7,8 @@ A business analyst with Pandas and Tableau.
 ### Purpose 
 In this project I am utilizing Pandas for cleaning the dataset and Tableau for visualization the dataset regarding  bike sharing analyst in New York City. Thus I will be able to provide with more information about the mechanics of the business and figure out how the bike share business actually works in NYC. The goal is to modify the model then  apply the similar model to other cities and expand the operation.
 
+#### Full Story of Tableau Analysis :[NYC Citi Bike Sharing](https://public.tableau.com/app/profile/aktug/viz/NYCCitiBikeSharing_16514969088580/Story1?publish=yes)
+
 ## Results 
 
 ###  Summary Information
